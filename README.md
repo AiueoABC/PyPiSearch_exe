@@ -5,3 +5,9 @@ To use this PyPiSearch.exe, run `cmd.exe` and type `PyPiSearch.exe [write someth
 
 # pip_searchの代わり
 `pip search`の代わりを作りました。  皆さんご存じのように最近`pip search`ができません。そこで、APIに頼らず検索できるようにしました。  使い方はコマンドプロンプトを開いて`PyPiSearch.exe [検索したいもの]`でOK。
+
+
+# Feed me!　奢ってください!
+If you like my idea, pls feed me!  
+このアイディアが気に入ったら、コーヒーを奢ってください!  
+<a href="https://www.buymeacoffee.com/aiueoabc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
